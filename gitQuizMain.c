@@ -11,6 +11,9 @@ int main(void)
         printf("You know how to use Git!");
     }
 
+        else
+            printf("You do not know how to use GIt")
+
     printf("\n");
 
     return 0;
